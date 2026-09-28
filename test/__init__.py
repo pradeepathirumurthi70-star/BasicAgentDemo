@@ -1,0 +1,1 @@
+"""Tests for the repository health check application."""
